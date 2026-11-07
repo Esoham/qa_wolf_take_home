@@ -1,3 +1,5 @@
+> **Portfolio status (2026):** This is a historical QA Wolf practice/take-home repository. The original `index.js` is an unfinished demonstration and is **not yet verified** to check exactly 100 chronologically sorted items; the current script only evaluates timestamps collected from one page. The repository should not be described as a completed or verified hiring assessment. See [CommerceQA / FarmFresh](https://github.com/Esoham/QA-Automation-Project) for verified Playwright/Selenium/API automation.
+
 # 🐺 QA Wolf Take Home Assignment
 
 Welcome to the QA Wolf take home assignment for our [QA Engineer](https://www.notion.so/qawolf/QA-Wolf-QA-Engineer-Remote-156203a1e476459ea5e6ffca972d0efe) role! We appreciate your interest and look forward to seeing what you come up with.
